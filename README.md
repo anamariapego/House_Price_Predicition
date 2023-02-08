@@ -12,11 +12,11 @@
 <details>
  <summary><h3>Sumário</h3></summary>
   <ol>
-    <li><a href="#descrição/objetivo-do-projeto">Descrição/Objetivo do Projeto</a></li>
-    <li><a href="#metados-usados">Métodos Usados</a></li>
+    <li><a href="#descrição-objetivo-do-projeto">Descrição/Objetivo do Projeto</a></li>
+    <li><a href="#métodos-usados">Métodos Usados</a></li>
     <li><a href="#tecnologias">Tecnologias</a></li>
     <li><a href="#contato">Contato</a></li>
-    <li><a href="#referencias">Refências</a></li>
+    <li><a href="#referências">Referências</a></li>
   </ol>
 </details>
 
@@ -31,7 +31,7 @@ A estrutura da base de dados permite uma análise detalhada das características
 <p align="right">(<a href="#readme-top">Voltar para o início</a>)</p>
 
 
-## <img src="https://user-images.githubusercontent.com/57241391/217636535-f4831826-c808-4a6c-9598-664e0eedfc14.png" height="30">  Metodos Usados
+## <img src="https://user-images.githubusercontent.com/57241391/217636535-f4831826-c808-4a6c-9598-664e0eedfc14.png" height="30">  Métodos Usados
 
 * Processamento/Limpeza de Dados
 * Exploração de Dados/Estatística Descritiva
