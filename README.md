@@ -74,9 +74,9 @@ Não hesite em entrar em contato comigo caso tenha alguma dúvida ou esteja inte
 
 <!-- links -->
 
-[license-shield]: https://img.shields.io/github/license/anamariapego/House_Price_Predicition.svg?style=flat-square&logoColor=brightgreen
+[license-shield]: https://img.shields.io/github/license/anamariapego/House_Price_Predicition?color=brightgreen&style=flat-square
 [license-url]: https://github.com/anamariapego/House_Price_Predicition/blob/main/LICENSE
 
-[contributors-shield]: https://img.shields.io/github/contributors/anamariapego/House_Price_Predicition.svg?style=flat-square&logoColor=brightgreen
+[contributors-shield]: https://img.shields.io/github/contributors/anamariapego/House_Price_Predicition?color=brightgreen&style=flat-square
 [contributors-url]: https://github.com/anamariapego/House_Price_Predicition/graphs/contributors
 
