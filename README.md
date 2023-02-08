@@ -1,18 +1,14 @@
 <a name="readme-top"></a>
 
-
-[![Github][gitHub-shield]][gitHub-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Gmail][gmail-shield]][gmail-url]
 [![MIT License][license-shield]][license-url]
 [![Contributors][contributors-shield]][contributors-url]
-
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=anamariapego.House_Price_Predicition&right_color=brightgreen)
 
 <img src="03-Imagens/AnaDataScientist.png" >
 
 # Prevendo Preço de Casa <img src="https://user-images.githubusercontent.com/57241391/216849469-1649b014-7add-4d4c-8b98-66869b30f5cd.png" height="50">
 
-<!-- TABLE OF CONTENTS -->
+<!-- Sumário -->
 <details>
  <summary><h3>Sumário</h3></summary>
   <ol>
@@ -38,47 +34,68 @@
   </ol>
 </details>
 
-## Descrição/Objetivo do Projeto
+## <img src="https://user-images.githubusercontent.com/57241391/217628486-4fd94a14-a731-4978-9c49-22730fb2d449.png" height="30"> Descrição/Objetivo do Projeto
  
-<img src="https://user-images.githubusercontent.com/57241391/216849763-68b56084-894c-482b-9010-540d80feb9b3.png" height="30"> O objetivo desse projeto é prever o preço de casa baseada nas suas características utilizando técnica de ciência de dados e machine learning. 
+O objetivo deste projeto é prever o valor de imóveis com base em suas características, utilizando técnicas de ciência de dados e aprendizado de máquina. O projeto se baseia na competição [House Prices: Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) da plataforma Kaggle.
 
-<img src="https://user-images.githubusercontent.com/57241391/216849829-168f8429-443d-4fcb-80f6-0b7333421924.png" height="20"> Os dados utilizados para o desenvolvimento desse projeto é de uma competição da plataforma [Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques). 
+A base de dados utilizada para o desenvolvimento do projeto foi coletada da referida competição Kaggle e contém mais de 1400 linhas e 79 variáveis explanatórias. As características incluem descrições da localização, garagem, piscina, lareira, dimensões e o número de quartos, entre outras.
 
-<p align="right">(<a href="#readme-top">Voltar para o início</a>)</p>
-
-
-## Métados Usados
+A estrutura da base de dados permite uma análise detalhada das características de cada imóvel, o que torna possível a realização de previsões precisas sobre seu valor. 
 
 <p align="right">(<a href="#readme-top">Voltar para o início</a>)</p>
 
-## Tecnologias
+
+## <img src="https://user-images.githubusercontent.com/57241391/217636535-f4831826-c808-4a6c-9598-664e0eedfc14.png" height="30">  Métados Usados
+
+* Processamento/Limpeza de Dados
+* Exploração de Dados/Estatística Descritiva
+* Visualização de Dados
+* Modelagem de Dados
+* Machine Learning
 
 <p align="right">(<a href="#readme-top">Voltar para o início</a>)</p>
 
-## Contato
+## <img src="https://user-images.githubusercontent.com/57241391/217635773-9ad89821-c574-4962-9b11-1d599d068490.png" height="30"> Tecnologias
 
-Email -
-Link do Projeto - 
-Sinta-se à vontade para entrar em contato com os líderes da equipe com qualquer dúvida ou se estiver interessado em contribuir!
-
-<p align="right">(<a href="#readme-top">Voltar para o início</a>)</p>
-
-## Referências
+* Python
+* GitHub
 
 <p align="right">(<a href="#readme-top">Voltar para o início</a>)</p>
 
-<--! Links -->
-[gitHub-shield]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
-[gitHub-url]: https://github.com/anamariapego/
+## <img src="https://user-images.githubusercontent.com/57241391/217637444-71fb0baf-2675-4da8-b85f-fe5ee2ffd4c2.png" height="30"> Contato
 
-[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/ana-pego/
+Email - [anapinheiro0404@gmail.com](anapinheiro0404@gmail.com)
 
-[gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-[gmail-url]: anapinheiro0404@gmail.com
+Link do Projeto - [House_Price_Predicition](https://github.com/anamariapego/House_Price_Predicition)
 
-[license-shield]: https://img.shields.io/github/license/anamariapego/House_Price_Predicition.svg?style=for-the-badge
+Não hesite em entrar em contato comigo caso tenha alguma dúvida ou esteja interessado em colaborar com o projeto.
+
+<p align="right">(<a href="#readme-top">Voltar para o início</a>)</p>
+
+## <img src="https://user-images.githubusercontent.com/57241391/217642578-1de992a9-8b94-41fc-b193-1ba0b8cd4141.png" height="30"> Referências
+
+* Modelo
+  https://machinelearningmastery.com/light-gradient-boosted-machine-lightgbm-ensemble/
+
+  https://coderzcolumn.com/tutorials/machine-learning/lightgbm-an-in-depth-guide-python
+  
+* avaliação modelo
+https://stackabuse.com/linear-regression-in-python-with-scikit-learn/
+
+https://medium.com/wwblog/evaluating-regression-models-using-rmse-and-r%C2%B2-42f77400efee#:~:text=The%20most%20common%20metric%20for%20evaluating%20linear%20regression,is%20%E2%80%9Cbad%E2%80%9D%20and%20a%20low%20RMSE%20is%20%E2%80%9Cgood%E2%80%9D.
+
+Modelo
+https://machinelearningmastery.com/light-gradient-boosted-machine-lightgbm-ensemble/
+
+https://coderzcolumn.com/tutorials/machine-learning/lightgbm-an-in-depth-guide-python
+
+<p align="right">(<a href="#readme-top">Voltar para o início</a>)</p>
+
+<!-- links -->
+
+[license-shield]: https://img.shields.io/github/license/anamariapego/House_Price_Predicition.svg?style=flat-square&logoColor=brightgreen
 [license-url]: https://github.com/anamariapego/House_Price_Predicition/blob/main/LICENSE
 
-[contributors-shield]: https://img.shields.io/github/contributors/anamariapego/House_Price_Predicition.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/anamariapego/House_Price_Predicition.svg?style=flat-square&logoColor=brightgreen
 [contributors-url]: https://github.com/anamariapego/House_Price_Predicition/graphs/contributors
+
