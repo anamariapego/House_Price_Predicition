@@ -5,6 +5,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Gmail][gmail-shield]][gmail-url]
 [![MIT License][license-shield]][license-url]
+[![Contributors][contributors-shield]][contributors-url]
 
 
 <img src="03-Imagens/AnaDataScientist.png" >
@@ -66,7 +67,7 @@ Sinta-se à vontade para entrar em contato com os líderes da equipe com qualque
 
 <p align="right">(<a href="#readme-top">Voltar para o início</a>)</p>
 
-
+<--! Links -->
 [gitHub-shield]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
 [gitHub-url]: https://github.com/anamariapego/
 
@@ -78,3 +79,6 @@ Sinta-se à vontade para entrar em contato com os líderes da equipe com qualque
 
 [license-shield]: https://img.shields.io/github/license/anamariapego/House_Price_Predicition.svg?style=for-the-badge
 [license-url]: https://github.com/anamariapego/House_Price_Predicition/blob/main/LICENSE
+
+[contributors-shield]: https://img.shields.io/github/contributors/anamariapego/House_Price_Predicition.svg?style=for-the-badge
+[contributors-url]: https://github.com/anamariapego/House_Price_Predicition/graphs/contributors
