@@ -12,25 +12,11 @@
 <details>
  <summary><h3>Sumário</h3></summary>
   <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#descrição/objetivo-do-projeto">Descrição/Objetivo do Projeto</a></li>
+    <li><a href="#metados-usados">Métodos Usados</a></li>
+    <li><a href="#tecnologias">Tenologias</a></li>
+    <li><a href="#contato">Contato</a></li>
+    <li><a href="#referencias">Refências</a></li>
   </ol>
 </details>
 
@@ -45,7 +31,7 @@ A estrutura da base de dados permite uma análise detalhada das características
 <p align="right">(<a href="#readme-top">Voltar para o início</a>)</p>
 
 
-## <img src="https://user-images.githubusercontent.com/57241391/217636535-f4831826-c808-4a6c-9598-664e0eedfc14.png" height="30">  Métados Usados
+## <img src="https://user-images.githubusercontent.com/57241391/217636535-f4831826-c808-4a6c-9598-664e0eedfc14.png" height="30">  Metodos Usados
 
 * Processamento/Limpeza de Dados
 * Exploração de Dados/Estatística Descritiva
@@ -74,20 +60,13 @@ Não hesite em entrar em contato comigo caso tenha alguma dúvida ou esteja inte
 
 ## <img src="https://user-images.githubusercontent.com/57241391/217642578-1de992a9-8b94-41fc-b193-1ba0b8cd4141.png" height="30"> Referências
 
-* Modelo
-  https://machinelearningmastery.com/light-gradient-boosted-machine-lightgbm-ensemble/
-
-  https://coderzcolumn.com/tutorials/machine-learning/lightgbm-an-in-depth-guide-python
+* https://lightgbm.readthedocs.io/en/latest/index.html
+* https://machinelearningmastery.com/light-gradient-boosted-machine-lightgbm-ensemble/
+* https://coderzcolumn.com/tutorials/machine-learning/lightgbm-an-in-depth-guide-python
+* https://coderzcolumn.com/tutorials/machine-learning/lightgbm-an-in-depth-guide-python
+* https://neptune.ai/blog/lightgbm-parameters-guide
   
-* avaliação modelo
-https://stackabuse.com/linear-regression-in-python-with-scikit-learn/
 
-https://medium.com/wwblog/evaluating-regression-models-using-rmse-and-r%C2%B2-42f77400efee#:~:text=The%20most%20common%20metric%20for%20evaluating%20linear%20regression,is%20%E2%80%9Cbad%E2%80%9D%20and%20a%20low%20RMSE%20is%20%E2%80%9Cgood%E2%80%9D.
-
-Modelo
-https://machinelearningmastery.com/light-gradient-boosted-machine-lightgbm-ensemble/
-
-https://coderzcolumn.com/tutorials/machine-learning/lightgbm-an-in-depth-guide-python
 
 <p align="right">(<a href="#readme-top">Voltar para o início</a>)</p>
 
