@@ -12,15 +12,15 @@
 <details>
  <summary><h3>Sumário</h3></summary>
   <ol>
-    <li><a href="#descrição-objetivo-do-projeto">Descrição/Objetivo do Projeto</a></li>
-    <li><a href="#métodos-usados">Métodos Usados</a></li>
-    <li><a href="#tecnologias">Tecnologias</a></li>
-    <li><a href="#contato">Contato</a></li>
-    <li><a href="#referências">Referências</a></li>
+    <li><a href="#-descrição-do-projeto">Descrição do Projeto</a></li>
+    <li><a href="#-métodos-usados">Métodos Usados</a></li>
+    <li><a href="#-tecnologias">Tecnologias</a></li>
+    <li><a href="#-contato">Contato</a></li>
+    <li><a href="#-referências">Referências</a></li>
   </ol>
 </details>
 
-## <img src="https://user-images.githubusercontent.com/57241391/217628486-4fd94a14-a731-4978-9c49-22730fb2d449.png" height="30"> Descrição/Objetivo do Projeto 
+## <img src="https://user-images.githubusercontent.com/57241391/217628486-4fd94a14-a731-4978-9c49-22730fb2d449.png" height="30"> Descrição do Projeto 
  
 O objetivo deste projeto é prever o valor de imóveis com base em suas características, utilizando técnicas de ciência de dados e aprendizado de máquina. O projeto se baseia na competição [House Prices: Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) da plataforma Kaggle.
 
