@@ -43,7 +43,7 @@ A estrutura da base de dados permite uma análise detalhada das características
 
 <p align="right">(<a href="#readme-top">Voltar para o início</a>)</p>
 
-## <img src="https://user-images.githubusercontent.com/57241391/217635773-9ad89821-c574-4962-9b11-1d599d068490.png" height="30"> Tecnologias
+##  Tecnologias <img src="https://user-images.githubusercontent.com/57241391/217635773-9ad89821-c574-4962-9b11-1d599d068490.png" height="30">
 
 * Python
 * GitHub
