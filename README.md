@@ -50,7 +50,7 @@ A estrutura da base de dados permite uma análise detalhada das características
 
 ## <img src="https://user-images.githubusercontent.com/57241391/217637444-71fb0baf-2675-4da8-b85f-fe5ee2ffd4c2.png" height="30"> Contato
 
-Email - [anapinheiro0404@gmail.com](anapinheiro0404@gmail.com)
+Email - <anapinheiro0404@gmail.com>
 
 Link do Projeto - [House_Price_Predicition](https://github.com/anamariapego/House_Price_Predicition)
 
