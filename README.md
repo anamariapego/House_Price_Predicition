@@ -14,7 +14,7 @@
   <ol>
     <li><a href="#descrição/objetivo-do-projeto">Descrição/Objetivo do Projeto</a></li>
     <li><a href="#metados-usados">Métodos Usados</a></li>
-    <li><a href="#tecnologias">Tenologias</a></li>
+    <li><a href="#tecnologias">Tecnologias</a></li>
     <li><a href="#contato">Contato</a></li>
     <li><a href="#referencias">Refências</a></li>
   </ol>
