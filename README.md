@@ -37,7 +37,7 @@ A estrutura da base de dados permite uma análise detalhada das características
 * Exploração de Dados/Estatística Descritiva
 * Visualização de Dados
 * Modelagem de Dados
-* Machine Learning
+* Machine Learning (Regressão Linear) 
 
 <p align="right">(<a href="#readme-top">Voltar para o início</a>)</p>
 
