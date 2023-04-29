@@ -2,7 +2,8 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fanamariapego%2FHouse_Price_Predicition&label=visitors&countColor=%2337d67a&style=flat-square&labelStyle=lower)
 
-<img src="03-Imagens/AnaDataScientist.png" >
+![image](https://user-images.githubusercontent.com/57241391/235317861-35e591e0-8fbf-4d71-94e0-e2f9691d806c.png)
+
 
 # Prevendo Preço de Casa <img src="https://user-images.githubusercontent.com/57241391/216849469-1649b014-7add-4d4c-8b98-66869b30f5cd.png" height="50">
 
