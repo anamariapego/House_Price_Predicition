@@ -1,8 +1,6 @@
 <a name="readme-top"></a>
 
-[![MIT License][license-shield]][license-url]
-[![Contributors][contributors-shield]][contributors-url]
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=anamariapego.House_Price_Predicition&right_color=brightgreen)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fanamariapego%2FHouse_Price_Predicition&label=visitors&countColor=%2337d67a&style=flat-square&labelStyle=lower)
 
 <img src="03-Imagens/AnaDataScientist.png" >
 
@@ -71,10 +69,4 @@ Não hesite em entrar em contato comigo caso tenha alguma dúvida ou esteja inte
 <p align="right">(<a href="#readme-top">Voltar para o início</a>)</p>
 
 <!-- links -->
-
-[license-shield]: https://img.shields.io/github/license/anamariapego/House_Price_Predicition?color=brightgreen&style=flat-square
-[license-url]: https://github.com/anamariapego/House_Price_Predicition/blob/main/LICENSE
-
-[contributors-shield]: https://img.shields.io/github/contributors/anamariapego/House_Price_Predicition?color=brightgreen&style=flat-square
-[contributors-url]: https://github.com/anamariapego/House_Price_Predicition/graphs/contributors
 
